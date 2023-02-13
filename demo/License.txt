@@ -1,5 +1,5 @@
 ﻿/*
-Template Name: Dreamz
+Template Name: LegalRaasta
 File: Licence
 Author: Yahoo Baba
 Author URL: https://www.yahoobaba.net

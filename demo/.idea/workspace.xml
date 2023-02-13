@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffcfd29c-be76-4752-84ac-d46379336bdc" name="Default" comment="" />
-    <ignored path="Dreamz-Template.iws" />
+    <ignored path="LegalRaasta-Template.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/*.regexp" changelist="ffcfd29c-be76-4752-84ac-d46379336bdc" time="1434570528840" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +20,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Dreamz-Template" />
+    <favorites_list name="LegalRaasta-Template" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -83,17 +83,17 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Dreamz-Template" />
+              <option name="myItemId" value="LegalRaasta-Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Dreamz-Template" />
+              <option name="myItemId" value="LegalRaasta-Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Dreamz-Template" />
+              <option name="myItemId" value="LegalRaasta-Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
